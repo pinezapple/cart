@@ -1,0 +1,16 @@
+.navbar-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 75px;
+    background-color: gray;
+
+    .navbar-total {
+        margin-left: 10px;
+    }
+
+    .navbar-view-cart-button {
+        height: 50%;
+        width: 20%;
+    }
+}
